@@ -1,2 +1,2 @@
 # shahid
-this my first repository i edited this
+this is my first repository i edited this
